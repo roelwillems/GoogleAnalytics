@@ -8,3 +8,6 @@ These are some Google Analytics scripts by Roel Willems, please bear in mind tha
 
 ### multiDomain_linkTracker.js
 A script which handles tracking between multi domain Google Analytics implementations and outbound links / file downloads.
+
+### addtosegment.user.js
+A userScript by ROIrevolution which adds some extra fields to the segment dropdown.
